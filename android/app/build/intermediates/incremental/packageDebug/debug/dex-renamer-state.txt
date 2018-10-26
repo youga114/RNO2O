@@ -1,0 +1,4 @@
+#Wed Jun 20 21:23:16 KST 2018
+base.0=C\:\\Users\\YOUJUN\\Desktop\\Portpolio\\18-1\\O2O\\RNO2O\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
